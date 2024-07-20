@@ -6,7 +6,7 @@ const num2 = 3;
 
 let temp;
 
-temp = a;
+const = a;
 a = b;
 b = temp;
 
