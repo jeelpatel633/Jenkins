@@ -1,8 +1,8 @@
 console.log("js node file created successfully");
 console.log("here is new jenkins chnages");
 
-let a = prompt('Enter the first variable: ');
-let b = prompt('Enter the second variable: ');
+const num1 = 5;
+const num2 = 3;
 
 let temp;
 
